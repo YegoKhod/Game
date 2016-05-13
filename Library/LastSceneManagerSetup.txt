@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/m31_teleporter_FX/teleporter_scene.unity
+  isLoaded: 1
+  isActive: 1
